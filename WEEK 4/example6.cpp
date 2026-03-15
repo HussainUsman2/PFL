@@ -7,7 +7,7 @@ main(){
     cin>> name;
 
     if(name =="ali"){
-    cout<<"Welcome to university" << name <<"\n";
+    cout<<" Welcome to university" <<  name <<"\n";
     }else{
           cout<<"You are not welcome!";
     

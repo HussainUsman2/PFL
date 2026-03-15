@@ -6,8 +6,8 @@ main(){
     cout<<"Enter your name:";
     cin>> name;
 
-    if(name =="ali"){
-    cout<<"Welcome to university" << name<<endl;
+    if(name == "ali"){
+    cout<<"Welcome to university" << name  <<  endl;
     }
     
    
